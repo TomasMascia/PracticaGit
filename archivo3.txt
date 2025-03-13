@@ -1,1 +1,20 @@
-nata estuvo aqui - otra vez
+            .-/+oossssoo+/-.               nata@Nata-Ub
+        `:+ssssssssssssssssss+:`           ------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.2 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: VivoBook_ASUSLaptop X515EA_X515EA 1.0
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.11.0-19-generic
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 2 hours, 2 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1636 (dpkg), 16 (snap)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.21
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/0
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: 11th Gen Intel i7-1165G7 (8) @ 4.700GHz
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: Intel TigerLake-LP GT2 [Iris Xe Graphics]
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 1368MiB / 7636MiB
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
